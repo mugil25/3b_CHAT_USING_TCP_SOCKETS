@@ -113,7 +113,8 @@ receive()
 
 ~~~
 ## OUPUT:
-![alt text](<Program &  Output/Output.png>)
+![image](https://github.com/user-attachments/assets/1db51f7f-a89c-4872-9d7f-80da86ca907f)
+
 ## RESULT
 Thus, the python program for creating Chat using TCP Sockets Links was successfully 
 created and executed.
